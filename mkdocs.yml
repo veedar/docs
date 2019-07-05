@@ -9,6 +9,10 @@ site_name: Noteski
 plugins:
     - search
     
+markdown_extensions:
+  - admonition    
+
+
 nav:
 - Kali OS: 'kalios.md'
 - Scanning: 'scanning.md'
