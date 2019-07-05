@@ -20,4 +20,5 @@ nav:
 - Tools:
     - 'Nmap': 'tools/nmap.md'
     - 'Metasploit': 'tools/metasploit.md'
+- HTB Stories: 'htb_stories.md'
 - About: 'about.md'
