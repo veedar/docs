@@ -11,9 +11,13 @@ plugins:
     
 nav:
 - Home: 'index.md'
-- User Guide:
+- Reconnaissance
+- Scanning
+- Exploitation
+- Maintaining access
+- Covering Tracks
+- Reporting
+- Tools:
     - 'Writing your docs': 'writing-your-docs.md'
     - 'Styling your docs': 'styling-your-docs.md'
-- About:
-    - 'License': 'license.md'
-    - 'Release Notes': 'release-notes.md'
+- About: 'about.md'
