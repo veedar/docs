@@ -1,14 +1,16 @@
-### System
+## System
 ---
+
 Starting/stopping etc
 
 ```
-systemctl status apache2
-systemclt status/start/stop/restart apache2
+systemctl status <process>
+systemclt [status|start|stop|restart] <process>
 ```
 
 
-### Services
+## Services
+---
 
-
-### Users
+## Users
+---
