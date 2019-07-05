@@ -16,5 +16,5 @@ systemclt [status|start|stop|restart] <process>
 ---
 
 
-!!! Note
-This is a test note
+!!! note
+  This is a test note
