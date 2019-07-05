@@ -1,7 +1,7 @@
 ## System
 ---
 
-Starting/stopping etc
+Prcess starting/stopping etc
 
 ```
 systemctl status <process>
