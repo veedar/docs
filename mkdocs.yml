@@ -6,7 +6,9 @@ theme:
         - yaml
         - django
 
-
+plugins:
+    - search
+    
 nav:
 - Home: 'index.md'
 - User Guide:
