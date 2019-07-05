@@ -1,3 +1,5 @@
+site_name: Noteski
+
 nav:
 - Home: 'index.md'
 - User Guide:
