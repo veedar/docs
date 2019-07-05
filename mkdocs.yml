@@ -11,13 +11,9 @@ plugins:
     
 nav:
 - Home: 'index.md'
-- Reconnaissance
-- Scanning
-- Exploitation
-- Maintaining access
-- Covering Tracks
-- Reporting
+- Scanning: 'scanning.md'
+- Exploitation: 'exploitation.md'
 - Tools:
-    - 'Writing your docs': 'writing-your-docs.md'
-    - 'Styling your docs': 'styling-your-docs.md'
+    - 'Nmap': 'tools/nmap.md'
+    - 'Metasploit': 'tools/metasploit.md'
 - About: 'about.md'
