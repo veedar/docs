@@ -1,10 +1,10 @@
 site_name: Noteski
-theme:
-    name: mkdocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - django
+#theme:
+ #   name: mkdocs
+  #  highlightjs: true
+   # hljs_languages:
+    #    - yaml
+     #   - django
 
 plugins:
     - search
