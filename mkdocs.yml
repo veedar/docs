@@ -10,7 +10,7 @@ repo_url: https://github.com/veedar/noteski/
 edit_uri: ""
 
 theme:
-    name: mkdocs
+    name: material
     highlightjs: true
     hljs_languages:
         - yaml
