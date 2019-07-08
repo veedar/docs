@@ -13,16 +13,11 @@ CTRL+R - reverse search - type what you want, enter when ready to execute
 
 `locate <string> -i` - case insensitive
 
-
-
 chmod -x <file> change to executable
 
-
-
 /etc/rsyslog.conf - logging configuration
-
-
 ```
+
 !!! note
   This is a test note
 
