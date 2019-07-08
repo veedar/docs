@@ -58,16 +58,16 @@ deluser --remove-home bob
 ## Packages:
 ---
 
-`apt update` - updates metadata in the local database
-`apt upgrade` - updates all packages in the system
-`apt upgrade <package>` - only updates that package
-`apt remove <package>`
-`apt autoremove` - removed packages that are no longer needed
-`apt-cache search <package>`
+`apt update` - updates metadata in the local database  
+`apt upgrade` - updates all packages in the system  
+`apt upgrade <package>` - only updates that package  
+`apt remove <package>`  
+`apt autoremove` - removed packages that are no longer needed  
+`apt-cache search <package>`  
 
-`dpkg --list `- lists packages installed
-`dpkg -i <packagename>` - installs the package
-`dpkg -c <package>.deb` - see the contents of the package
+`dpkg --list `- lists packages installed  
+`dpkg -i <packagename>` - installs the package  
+`dpkg -c <package>.deb` - see the contents of the package  
 
 ```
 apt-get
