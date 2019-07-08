@@ -55,7 +55,7 @@ deluser --remove-home bob
 
 ```
 
-## Packages:
+## Packages
 ---
 
 `apt update` - updates metadata in the local database  
@@ -80,8 +80,11 @@ updatedb
 dpkg -i <package>.deb - install package
 ```
 
- `htop ` - better version of top  
- `wget`   
- `vim`  
- `apache2`  
- `ufw `- uncomplicated firewall  
+```
+
+ htop  - better version of top  
+ wget   
+ vim  
+ apache`  
+ ufw - uncomplicated firewall  
+```
