@@ -10,12 +10,6 @@
 
 CTRL+R - reverse search - type what you want, enter when ready to execute
 
-Packages:
- htop - better version of top
- wget
- vim
- apache2
- ufw - uncomplicated firewall
 
 apt update - updates metadata in the local database
 apt upgrade - updates all packages in the system
@@ -89,3 +83,10 @@ deluser --remove-home bob
 
 ```
 
+## Packages:
+---
+ `htop ` - better version of top
+ `wget`
+ `vim`
+ `apache2`
+ `ufw `- uncomplicated firewall
