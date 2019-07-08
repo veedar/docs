@@ -50,9 +50,7 @@ visudo - edits the file of superusers
 
 deluser --remove-home bob
 
-
 /etc/group - shows all groups in the system
-
 ```
 
 ## Packages
