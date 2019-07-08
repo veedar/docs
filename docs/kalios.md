@@ -1,11 +1,11 @@
 ## System
 ---
 
-**grep
+**grep  
 
-`grep <string> * ` - searches for given string in all files contained in current dir
-`grep -R <string> * ` - same as above but recuresively
-`grep <string> -i `- case insensitive
+`grep <string> * ` - searches for given string in all files contained in current dir . 
+`grep -R <string> * ` - same as above but recuresively  
+`grep <string> -i `- case insensitive  
 
 
 ```
@@ -85,8 +85,8 @@ updatedb
 dpkg -i <package>.deb - install package
 ```
 
- `htop ` - better version of top
- `wget`
- `vim`
- `apache2`
- `ufw `- uncomplicated firewall
+ `htop ` - better version of top  
+ `wget`   
+ `vim`  
+ `apache2`  
+ `ufw `- uncomplicated firewall  
