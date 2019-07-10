@@ -1,18 +1,29 @@
-# Home
+.. tutos documentation master file, created by
+   sphinx-quickstart on Sat Jul  5 13:23:59 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-This is where I put the things!
+Welcome to Kotrfa's guides
+==========================
 
----
+Contents:
 
-## Overview
+.. toctree::
+   :maxdepth: 3
+    
+   source/intro
+   source/nec_know
+   source/domains_ip_servers
+   source/ndg
+   source/Arch
+   source/RPi
+   source/git_rtd
+   source/git_workflow
 
-This is a ***sample*** text
+Indices and tables
+==================
 
-
----
-
-See the menu on the left
-
-
-[Getting Started](#getting-started)
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
