@@ -4,7 +4,7 @@
    :maxdepth: 2
 
    kalios
-   configuring
+   scanning
    changelog
    contributing
 
