@@ -1,10 +1,10 @@
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: Kali OS
    :maxdepth: 2
 
    kalios
-   scanning
+
    changelog
    contributing
 
@@ -12,9 +12,9 @@
 .. toctree::
     :maxdepth: 2
     :numbered:
-    :caption: Demo Documents
+    :caption: Reconnaissance
 
-    demo/structure
+    scanning
     demo/demo
     demo/lists_tables
     demo/api
@@ -22,6 +22,6 @@
 .. toctree::
     :maxdepth: 3
     :numbered:
-    :caption: This is an incredibly long caption for a long menu
+    :caption: Tools
 
-    demo/long
+    tools/nmap
