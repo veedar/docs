@@ -6,8 +6,11 @@ Noteski
 Contents:
 
 .. toctree::
-   :maxdepth: 3
-    
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: KALI OS
+
    source/intro
    source/nec_know
    source/domains_ip_servers
