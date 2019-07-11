@@ -1,29 +1,27 @@
 
+.. toctree::
+   :caption: Theme Documentation
+   :maxdepth: 2
 
-Contents:
+   installing
+   configuring
+   changelog
+   contributing
+
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :glob:
-   :caption: KALI OS
+    :maxdepth: 2
+    :numbered:
+    :caption: Demo Documents
 
+    demo/structure
+    demo/demo
+    demo/lists_tables
+    demo/api
 
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+    :caption: This is an incredibly long caption for a long menu
 
-Heading 1
-=========
-
-Heading 2
----------
-
-Heading 3
-^^^^^^^^^
-
-Heading 4
-~~~~~~~~~
-
-.. _sec-heading:
-
-Heading with label
-------------------
-
+    demo/long
