@@ -1,6 +1,6 @@
 nav:
 - Kali OS: 'kalios.md'
-- Scanning: 'scanning.md'
+- Scanning: 'scanning.rst'
 - Exploitation: 'exploitation.md'
 - Tools:
     - 'Nmap': 'tools/nmap.rst'

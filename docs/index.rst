@@ -13,7 +13,7 @@
     :numbered:
     :caption: Reconnaissance
 
-    scanning.rst
+    scanning
     demo/demo
     demo/lists_tables
     demo/api
