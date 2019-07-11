@@ -1,4 +1,11 @@
 
+************
+Installation
+************
+
+
+Via Python Package
+==================
 
 grep <string> *  - searches for given string in all files contained in current dir .
 grep -R <string> *  - same as above but recuresively
