@@ -3,8 +3,7 @@
    :caption: Kali OS
    :maxdepth: 2
 
-   kalios
-
+   docs/kalios
    changelog
    contributing
 
@@ -14,7 +13,7 @@
     :numbered:
     :caption: Reconnaissance
 
-    scanning
+    docs/scanning
     demo/demo
     demo/lists_tables
     demo/api
@@ -24,4 +23,4 @@
     :numbered:
     :caption: Tools
 
-    tools/nmap
+    docs/tools/nmap

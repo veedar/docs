@@ -18,7 +18,7 @@ nav:
 - Scanning: 'scanning.md'
 - Exploitation: 'exploitation.md'
 - Tools:
-    - 'Nmap': 'tools/nmap.md'
-    - 'Metasploit': 'tools/metasploit.md'
+    - 'Nmap': 'tools/nmap.rst'
+    - 'Metasploit': 'tools/metasploit.rst'
 - HTB Stories: 'htb_stories.md'
 - About: 'about.md'
