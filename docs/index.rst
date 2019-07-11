@@ -3,7 +3,7 @@
    :caption: Theme Documentation
    :maxdepth: 2
 
-   installing
+   kalios
    configuring
    changelog
    contributing
@@ -14,7 +14,7 @@
     :numbered:
     :caption: Demo Documents
 
-    demo/structure
+    demo/structure
     demo/demo
     demo/lists_tables
     demo/api
