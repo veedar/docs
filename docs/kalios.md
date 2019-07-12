@@ -5,9 +5,6 @@ nav_order: 2
 ---
 
 # Kali OS
-{: .no_toc }
-
-# Kali OS
 
 ### Kali OS
 
