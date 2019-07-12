@@ -1,9 +1,0 @@
-nav:
-- Kali OS: 'kalios.md'
-- Scanning: 'scanning.rst'
-- Exploitation: 'exploitation.md'
-- Tools:
-    - 'Nmap': 'tools/nmap.rst'
-    - 'Metasploit': 'tools/metasploit.rst'
-- HTB Stories: 'htb_stories.md'
-- About: 'about.md'
