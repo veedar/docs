@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Home
-nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
+title: UI Components
+nav_order: 2
+has_children: true
+permalink: /docs/kalios
 ---
-
 ### Header
 
 `some code` - test code
