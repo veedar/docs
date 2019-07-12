@@ -6,6 +6,5 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-### index.md
+#### Eastern Eurpean Docs
 
-`some code` - test code
