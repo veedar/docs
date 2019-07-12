@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other 
-parent: tools
+parent: docs/tools
 nav_order: 10
 ---
 
