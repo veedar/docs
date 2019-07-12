@@ -42,15 +42,16 @@ systemclt [status|start|stop|restart] <process>
 ## Users
 ---
 ```
-adduser bob
-usermod -aG sudo bob
-passwd bob
-su bob
+adduser <user>
+usermod -aG sudo <user>
+passwd <user>
+su <user>
+deluser --remove-home <user>
 ```
 
-`visudo` - edits the file of superusers  
-`deluser --remove-home <user>`  
+'visudo` - edits the file of superusers  
 `/etc/group` - shows all groups in the system   
+
 
 
 
