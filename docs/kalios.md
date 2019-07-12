@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Kali OS
 nav_order: 2
 ---
 
