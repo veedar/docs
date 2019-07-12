@@ -22,3 +22,7 @@ nav_order: 10
 ### scp
 
 `scp <local file> <user>@<x.x.x.x>:/x/y/z`
+
+### SOCKS Proxy with ssh tunnel
+
+`ssh -N -D <high port to forward i.e. 64000> <user>@<remote ip>`
