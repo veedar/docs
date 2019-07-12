@@ -24,35 +24,34 @@ nav_order: 2
 `/etc/rsyslog.conf` - logging configuration
 
 
+
 ## Services
 ---
 
 Prcess starting/stopping etc
-
-
+```
 systemctl status <process>
 systemclt [status|start|stop|restart] <process>
-
+```
 
 **View Processes**
 
-ps auxw | grep httpd
+`ps auxw | grep httpd`
 
 
 ## Users
 ---
 
-
+```
 adduser bob
 usermod -aG sudo bob
 passwd bob
 su bob
+```
 
-visudo - edits the file of superusers
-
-deluser --remove-home bob
-
-/etc/group - shows all groups in the system
+`visudo` - edits the file of superusers 
+`deluser --remove-home` bob 
+`/etc/group` - shows all groups in the system 
 
 
 ## Packages
