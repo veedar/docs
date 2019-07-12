@@ -4,7 +4,7 @@ title: Kali OS
 nav_order: 2
 ---
 
-# Configuration
+# Kali OS
 {: .no_toc }
 
 # Kali OS
