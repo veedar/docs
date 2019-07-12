@@ -27,7 +27,6 @@ nav_order: 2
 
 ## Services
 ---
-
 Prcess starting/stopping etc
 ```
 systemctl status <process>
@@ -39,9 +38,9 @@ systemclt [status|start|stop|restart] <process>
 `ps auxw | grep httpd`
 
 
+
 ## Users
 ---
-
 ```
 adduser bob
 usermod -aG sudo bob
@@ -52,6 +51,7 @@ su bob
 `visudo` - edits the file of superusers 
 `deluser --remove-home` bob 
 `/etc/group` - shows all groups in the system 
+
 
 
 ## Packages
@@ -78,9 +78,11 @@ apt-get remove <package>
 updatedb
 ```
 
+
+
 ### Useful
 
- `htop`  - better version of top 
- `ufw` - uncomplicated firewall 
+ `htop`  - better version of top  
+ `ufw` - uncomplicated firewall  
 
 
