@@ -1,15 +1,21 @@
 ---
 layout: default
 title: Nmap
-parent: recon
+parent: /docs/recon
 nav_order: 2
 ---
 
 
-# nmap
+
+# Nmap
 {: .no_toc }
 
-## nmap
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 
 `nmap -sT -p 1-65535 10.0.0.19` - Scan Description
@@ -18,4 +24,3 @@ nav_order: 2
 `-sT` - test  
 `-p` - test 
 
-test
