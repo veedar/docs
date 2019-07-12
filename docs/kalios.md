@@ -49,8 +49,8 @@ su bob
 ```
 
 `visudo` - edits the file of superusers  
-`deluser --remove-home bob  
-`/etc/group` - shows all groups in the system . 
+`deluser --remove-home <user>`  
+`/etc/group` - shows all groups in the system   
 
 
 
