@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nmap
-parent: tools/tools
+parent: ../recon
 nav_order: 2
 ---
 
