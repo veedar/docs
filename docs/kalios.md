@@ -65,16 +65,18 @@ su bob
 `apt autoremove` - removed packages that are no longer needed   
 `apt-cache search <package>`    
 
-`dpkg --list` - lists packages installed 
-`dpkg -i <package>.deb` - install package 
-`dpkg -c <package>.deb` - see the contents of the package 
+`dpkg --list` - lists packages installed  
+`dpkg -i <package>.deb` - install package  
+`dpkg -c <package>.deb` - see the contents of the package  
+
 ```
 apt-get
 apt-cache search mlocate
 apt-get install mlocate
 apt-get upgrade
 apt-get remove <package>
-updatedb```
+updatedb
+```
 
 ### Useful
 
