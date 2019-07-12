@@ -5,7 +5,9 @@ parent: ../recon
 nav_order: 2
 ---
 
-# nmap.md
+
+# nmap
+{: .no_toc }
 
 ## nmap
 
