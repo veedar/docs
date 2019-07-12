@@ -68,13 +68,13 @@ su bob
 `dpkg --list` - lists packages installed 
 `dpkg -i <package>.deb` - install package 
 `dpkg -c <package>.deb` - see the contents of the package 
-
-`apt-get` 
-`apt-cache search mlocate` 
-`apt-get install mlocate` 
-`apt-get upgrade` 
-`apt-get remove <package>` 
-`updatedb` 
+```
+apt-get
+apt-cache search mlocate
+apt-get install mlocate
+apt-get upgrade
+apt-get remove <package>
+updatedb```
 
 ### Useful
 
