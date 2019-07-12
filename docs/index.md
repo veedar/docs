@@ -6,6 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-### Header
+### index.md
 
 `some code` - test code
