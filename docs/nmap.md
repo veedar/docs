@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nmap
-parent: /docs/recon
+parent: recon
 nav_order: 2
 ---
 
