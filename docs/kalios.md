@@ -58,12 +58,12 @@ su bob
 ---
 
 ### Management
-`apt update` - updates metadata in the local database 
-`apt upgrade` - updates all packages in the system  
-`apt upgrade <package>` - only updates that package 
-`apt remove <package>`  
-`apt autoremove` - removed packages that are no longer needed 
-`apt-cache search <package>`  
+`apt update` - updates metadata in the local database    
+`apt upgrade` - updates all packages in the system      
+`apt upgrade <package>` - only updates that package   
+`apt remove <package>`   
+`apt autoremove` - removed packages that are no longer needed   
+`apt-cache search <package>`    
 
 `dpkg --list` - lists packages installed 
 `dpkg -i <package>.deb` - install package 
