@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nmap
-parent: recon
+parent: Reconnaissance
 nav_order: 2
 ---
 
