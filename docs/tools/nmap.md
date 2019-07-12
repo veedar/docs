@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nmap
-parent: tools
+parent: tools/tools
 nav_order: 2
 ---
 
