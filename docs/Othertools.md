@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Other
-parent: tools
+title: Other Tools
 nav_order: 10
 ---
 
-## Other
+## Other Tools
