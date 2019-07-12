@@ -6,27 +6,22 @@ nav_order: 2
 
 # Kali OS
 
-### Kali OS
 
 ## System
-
-`grep <string> *  `- searches for given string in all files contained in current dir  
-`grep -R <string> *  `- same as above but recuresively  
-`grep <string> -i `- case insensitive   
-
-
-
-CTRL+R - reverse search - type what you want, enter when ready to execute
-
-locate <string> -i - case insensitive
-
-chmod -x <file> change to executable
-
-/etc/rsyslog.conf - logging configuration
+---
+`grep <string> * ` - searches for given string in all files contained in current dir  
+`grep -R <string> *` - same as above but recuresively  
+`grep <string> -i` - case insensitive   
 
 
-!!! note
-  This is a test note
+
+`CTRL+R - reverse search` - type part of the previous command, enter when ready to execute
+
+`locate <string> -i` - case insensitive
+
+`chmod -x <file>` - change to executable
+
+`/etc/rsyslog.conf` - logging configuration
 
 
 ## Services
@@ -63,12 +58,12 @@ deluser --remove-home bob
 ## Packages
 ---
 
-apt update - updates metadata in the local database
-apt upgrade - updates all packages in the system
-apt upgrade <package> - only updates that package
-apt remove <package>
-apt autoremove - removed packages that are no longer needed
-apt-cache search <package>
+`apt update` - updates metadata in the local database 
+`apt upgrade` - updates all packages in the system  
+`apt upgrade <package>` - only updates that package 
+`apt remove <package>`  
+`apt autoremove` - removed packages that are no longer needed 
+`apt-cache search <package>`  
 
 dpkg --list - lists packages installed
 dpkg -i <packagename> - installs the package
