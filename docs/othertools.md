@@ -19,6 +19,6 @@ nav_order: 10
 
 `convert xc:black 1x1 pixel.png` - creates an image of a single black pixel
 
-### Item 2
+### scp
 
-dsfsdf
+`scp <local file> <user>@<x.x.x.x>:/x/y/z`
