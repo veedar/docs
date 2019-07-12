@@ -8,8 +8,6 @@ nav_order: 10
 
 
 # Tools
-
-# Layout Utilities
 {: .no_toc }
 
 ## Table of contents
