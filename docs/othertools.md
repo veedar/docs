@@ -25,4 +25,4 @@ nav_order: 10
 
 ### SOCKS Proxy with ssh tunnel
 
-`ssh -N -D <high port to forward i.e. 64000> <user>@<remote ip>`
+`ssh -N -D <high port to forward i.e. 64000> <user>@<remote ip> -vvv`
