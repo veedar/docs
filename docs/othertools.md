@@ -27,4 +27,7 @@ nav_order: 10
 
 `ssh -N -D <high port to forward i.e. 64000> <user>@<remote ip> -vvv`
  
+### Geo IP Lookup
 
+`apt install geoip-bin`  
+`geoiplookup <ip address>` - show approximate IP location
