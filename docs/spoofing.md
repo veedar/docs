@@ -15,8 +15,12 @@ nav_order: 1
 {:toc}
 
 ### ARP Spoofing
-
 `echo 1 > /proc/sys/net/ipv4/ip_forward` - enables IP forwarding   
 `arpspoof -i <int> -t <target ip addr> -r <host to spoof i.e. gw>`  
 `arpspoof -i <int> -r <host to spoof i.e. gw> -t <target ip addr>`  
 
+### MAC Spoofing
+`macchanger --show <int>` - shows current MACs set
+`macchanger -r <int>` - sets a random MAC on <int>
+ 
+  
