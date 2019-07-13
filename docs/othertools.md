@@ -30,4 +30,4 @@ nav_order: 10
 ### Geo IP Lookup
 
 `apt install geoip-bin`  
-`geoiplookup <ip address>` - show approximate IP location
+`geoiplookup <ip address>` - shows country where the IP resides
