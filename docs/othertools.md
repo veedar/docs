@@ -30,5 +30,5 @@ nav_order: 10
 ### Geo IP Lookup
 
 `apt install geoip-bin`  
-`geoiplookup <ip address>` - shows country where the IP resides
+`geoiplookup <ip address>` - shows country where the IP resides  
 NOTE: DBs also be updated to show more specific info such as coordinates or cities.
