@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Networking
 
-`ip addr show | grep -i inet`
+`ip addr show`
 
 ## System
 ---
