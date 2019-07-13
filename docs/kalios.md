@@ -6,6 +6,9 @@ nav_order: 2
 
 # Kali OS
 
+## Networking
+
+`ip addr show | grep -i inet`
 
 ## System
 ---
