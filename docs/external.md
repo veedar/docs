@@ -4,4 +4,4 @@ title: External Resources
 nav_order: 20
 ---
 
-Google Hacking https://www.exploit-db.com/google-hacking-database
+Google Dorks [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
