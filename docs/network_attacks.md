@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Spoofing
+title: Network Attacks
 parent: Exploitation
 nav_order: 1
 ---
 
-# Spoofing
+# Network Attacks
 {: .no_toc }
 
 ## Table of contents
@@ -20,7 +20,8 @@ nav_order: 1
 `arpspoof -i <int> -r <host to spoof i.e. gw> -t <target ip addr>`  
 
 ### MAC Spoofing
-`macchanger --show <int>` - shows current MACs set
-`macchanger -r <int>` - sets a random MAC on <int>
+`macchanger --show <int>` - shows current MACs set  
+`macchanger -r <int>` - sets a random MAC on <int>  
  
-  
+### DHCP Starvation
+`xxx`
