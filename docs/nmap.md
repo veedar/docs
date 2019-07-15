@@ -30,5 +30,13 @@ Options:
 --excludefile <file>
 ```
 
+### Host Discovery
+```
+nmap -sL x.x.x.x - List Scan - simply list targets to scan
+nmap -sn x.x.x.x - Ping Scan - disable port scan
+nmap -PS(optional: port/port-list/port-range, no space) x.x.x.x - TCP SYN scan (defaults to firsr 1000 ports)
+nmap -PA(optional: port/port-list/port-range, no space) x.x.x.x - TCP ACK scan (defaults to firsr 1000 ports), since there is no open connection, host should respond with RST
+
+```
 
 
