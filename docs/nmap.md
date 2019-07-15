@@ -34,10 +34,9 @@ Options:
 ```
 nmap -sL x.x.x.x - List Scan - simply list targets to scan
 nmap -sn x.x.x.x - Ping Scan - disable port scan
-nmap -PS(optional: port/port-list/port-range, no space) x.x.x.x - TCP SYN scan (defaults to firsr 1000 ports)
-nmap -PA(optional: port/port-list/port-range, no space) x.x.x.x - TCP ACK scan (defaults to firsr 1000 ports), 
-    since there is no open connection, host should respond with RST
-
+nmap -PS/PA/PU/PY[portlist] x.x.x.x - TCP SYN/ACK, UDP or SCTP discovery to given ports, 
+    - PA - ACK scan, since there is no open connection, host should respond with RST
+nmap -PE/PP/PM x.x.x.x - ICMP echo, timestamp, and netmask request discovery probes
 ```
 
 
