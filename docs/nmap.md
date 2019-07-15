@@ -17,10 +17,10 @@ nav_order: 2
 {:toc}
 
 
+### Simple Scans
+`nmap x.x.x.x,2,3,4,5` - Scan set of IPs with different last octet  
+`nmap x.x.x.x-20` - Scan set of IPs within the range (from x to 20)
+`nmap x.x.x.x/xx` - Scan entire subnet  
 
-`nmap -sT -p 1-65535 10.0.0.19` - Scan Description
 
-
-`-sT` - test  
-`-p` - test 
 
