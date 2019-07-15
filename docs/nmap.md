@@ -39,7 +39,7 @@ nmap -PS/PA/PU/PY[portlist] x.x.x.x - TCP SYN/ACK, UDP or SCTP discovery to give
 nmap -PE/PP/PM x.x.x.x - ICMP echo, timestamp, and netmask request discovery probes
 
 Other Options:
--n - don't perform reverse DNS lookup if an active host is found
+-n - don't perform reverse DNS lookup on an active host's IP
 ```
 
 
