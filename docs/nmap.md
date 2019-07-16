@@ -42,4 +42,14 @@ Other Options:
 -n - don't perform reverse DNS lookup on an active host's IP
 ```
 
+### Port Discovery
+```
+nmap x.x.x.x -p <port ranges> - Only scan specified ports
+nmap x.x.x.x -sS <port ranges> - TCP SYN scan (defaults to first 1000 ports)
+nmap x.x.x.x -sT <port ranges> - TCP Connect Scan (works without root priv)
 
+Other Options:
+--exclude-ports <port ranges>
+
+Other Options:
+```
