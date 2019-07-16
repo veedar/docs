@@ -69,8 +69,19 @@ Other Options:
 ### Identifying the Operating System
 
 ```
+-O - OS detection
+```
+### Comprehensive Scans
+```
+nmap -T4 -A <ip> - aggresive (T4) scan with OS and version detection
 ```
 
 ### Vulnerability Scans
 ```
+```
+
+### Nmap Scripts
+[https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
+```
+/usr/share/nmap/scripts/
 ```
