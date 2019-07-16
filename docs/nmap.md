@@ -56,11 +56,21 @@ nmap x.x.x.x -sO - IP protocl scan (TCP, ICMP, IGMP, etc)
 
 Other Options:
 --exclude-ports <port ranges>
-
 ```
 
 ### Service and Service Version Detection
 ```
 -sV <IP> <port ranges> - Probe open ports to determine service/version info.
 
+Other Options:
+--version-intensity <level>: Set from 0 (light) to 9 (try all probes)
+```
+
+### Identifying the Operating System
+
+```
+```
+
+### Vulnerability Scans
+```
 ```
