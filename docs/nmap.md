@@ -48,6 +48,7 @@ nmap x.x.x.x -p <port ranges> - Only scan specified ports
 nmap x.x.x.x -sS <port ranges> - TCP SYN scan (defaults to first 1000 ports)
 nmap x.x.x.x -sT <port ranges> - TCP Connect Scan (works without root priv)
 nmap x.x.x.x -sU <port ranges> - UDP Scan 
+nmap x.x.x.x -sN; -sF; -sX - TCP NULL, FIN, and Xmas scans
 
 Other Options:
 --exclude-ports <port ranges>
