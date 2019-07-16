@@ -40,6 +40,7 @@ nmap -PE/PP/PM x.x.x.x - ICMP echo, timestamp, and netmask request discovery pro
 
 Other Options:
 -n - don't perform reverse DNS lookup on an active host's IP
+-D - decoy - sends other scans from spoofed IPs to decoy an IDS
 ```
 
 ### Port Discovery
