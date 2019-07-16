@@ -58,3 +58,9 @@ Other Options:
 --exclude-ports <port ranges>
 
 ```
+
+### Service and Service Version Detection
+```
+-sV <IP> <port ranges> - Probe open ports to determine service/version info.
+
+```
