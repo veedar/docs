@@ -84,4 +84,6 @@ nmap -T4 -A <ip> - aggresive (T4) scan with OS and version detection
 [https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
 ```
 /usr/share/nmap/scripts/
+
+nmap --script=<lua script, can use * e.g http*> <ip> -vv
 ```
