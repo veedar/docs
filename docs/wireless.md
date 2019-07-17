@@ -15,3 +15,8 @@ nav_order: 5
 {:toc}
 
 ### Scanning
+```
+airmon-ng start <wlan if> - enable monitor mode
+airodump-ng <wlan if mon> - scans for wireless networks
+airodump-ng -c <channel no> --bssid <BSSID> -w <file> <wlan if mon>
+```
