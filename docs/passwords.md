@@ -14,4 +14,4 @@ nav_order: 6
 {:toc}
 
 ### Hashcat
-TBD
+[https://hashcat.net/wiki/](https://hashcat.net/wiki/)
