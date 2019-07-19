@@ -33,4 +33,24 @@ grep <options> - search for modules
 info <module> - show modules's info
 jobs (-h) - shows active jobs
 load <plugin> - loads plugin
+loadpath <path> - loads a directory in the path
+unload <plugin>
+```
+### Search
+```
+search <word>
+
+Options:
+  name:<word>
+  type:<type>
+  author:<name>
+  platform:<platform>
+  cve:<part of CVE e.g. year>
+
+Types:
+  payload
+  
+Platforms:
+  linux
+  windows
 ```
