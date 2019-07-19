@@ -13,5 +13,8 @@ Snowman [https://derevenets.com/](https://derevenets.com/)
 Olly DBG [http://www.ollydbg.de/](http://www.ollydbg.de/)  
 Cheat Engine [https://www.cheatengine.org/](https://www.cheatengine.org/)  
 
-### Malware
+### Malware 
 [https://www.malware-traffic-analysis.net/index.html](https://www.malware-traffic-analysis.net/index.html)  
+
+### Exploits
+[https://www.exploit-db.com/](https://www.exploit-db.com/)
