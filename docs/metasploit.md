@@ -15,3 +15,6 @@ nav_order: 1
 {:toc}
 
 ### Metasploit
+```
+/usr/share/metasploit-framework/
+```
