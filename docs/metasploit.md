@@ -56,3 +56,16 @@ Platforms:
   
 show [payloads | exploits] (grep <str>)
 ```
+
+### Set
+```
+use <module> 
+show options <of the module>
+show targers - displays the targers set
+show advanced - displays advanced options
+
+set <option> <value> - setting a local variable (e.g. RHOST)
+setg <option> <value> - setting a global variable (e.g. RHOST)
+unset
+
+```
