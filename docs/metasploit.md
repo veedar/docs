@@ -21,9 +21,11 @@ nav_order: 1
 ```
 msfconsole - starts MSF
 ```
+### Basics
 ```
 banner - shows banner
 ? - help
 help <option> - detailed help
 color <option> - sets console colours
+connect <options> - connects to a host (similar to netcat)
 ```
