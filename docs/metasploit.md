@@ -32,4 +32,5 @@ edit <file> - vim editing
 grep <options> - search for modules
 info <module> - show modules's info
 jobs (-h) - shows active jobs
+load <plugin> - loads plugin
 ```
