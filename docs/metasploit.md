@@ -53,4 +53,6 @@ Types:
 Platforms:
   linux
   windows
+  
+show [payloads | exploits] (grep <str>)
 ```
