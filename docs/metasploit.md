@@ -2,7 +2,7 @@
 layout: default
 title: Metasploit
 parent: Exploitation
-nav_order: 1
+nav_order: 2
 ---
 
 # Metasploit
