@@ -43,6 +43,7 @@ workspace <name> - switches workspaces
 ```
 ### Search
 ```
+help search
 search <word>
 
 Options:
@@ -74,15 +75,32 @@ setg <option> <value> - setting a global variable (e.g. RHOST)
 unset
 
 ```
-
-
-
 ### Initial database setup
-
 ```
 systemctl start postgresql
 msfdb init
 
 msfconsole
   db_status
+```
+
+### Other
+```
+db_nmap <nmap options> - runs nmap and adds results to local db
+hosts - lists found hosts
+services - lists found services (help services)
+  -c 
+    name,port
+
+help database
+
+vulns (-i) - shows info for all services in db
+vulns -p <port/port-range> -i - show vulns for services in db
+```
+### Exploit
+```
+use <exploit>
+show options
+set <option>
+run
 ```
