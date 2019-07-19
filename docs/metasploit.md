@@ -75,7 +75,7 @@ setg <option> <value> - setting a global variable (e.g. RHOST)
 unset
 
 ```
-### Initial database setup
+### Initial Database Setup
 ```
 systemctl start postgresql
 msfdb init
@@ -104,3 +104,8 @@ show options
 set <option>
 run
 ```
+### Post Exploitation
+
+Add your public ssh key to ~/.ssh/authorized_keys
+Enable RSAAuthentication in the SSH config file
+
