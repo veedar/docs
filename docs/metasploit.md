@@ -35,6 +35,10 @@ jobs (-h) - shows active jobs
 load <plugin> - loads plugin
 loadpath <path> - loads a directory in the path
 unload <plugin>
+
+workspace - shows the workspaces
+workspace -a <name> - creates (and switches to) new workspace
+workspace <name> - switches workspaces
 ```
 ### Search
 ```
@@ -68,4 +72,16 @@ set <option> <value> - setting a local variable (e.g. RHOST)
 setg <option> <value> - setting a global variable (e.g. RHOST)
 unset
 
+```
+
+
+
+### Initial database setup
+
+```
+systemctl start postgresql
+msfdb init
+
+msfconsole
+  db_status
 ```
