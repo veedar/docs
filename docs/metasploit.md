@@ -18,3 +18,12 @@ nav_order: 1
 ```
 /usr/share/metasploit-framework/
 ```
+```
+msfconsole - starts MSF
+```
+```
+banner - shows banner
+? - help
+help <option> - detailed help
+color <option> - sets console colours
+```
