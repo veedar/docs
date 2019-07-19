@@ -103,9 +103,11 @@ use <exploit>
 show options
 set <option>
 run
+
+sessions -l - shows open sessions
+sessions -i <number> - interacts with existing session
 ```
 ### Post Exploitation
-
 Add your public ssh key to ~/.ssh/authorized_keys  
 Enable RSAAuthentication in the SSH config file
 
