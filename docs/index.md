@@ -8,3 +8,4 @@ permalink: /
 
 ### Eastern Eurpean Docs
 
+These are my personal notes, please don't do anything nasty with it.
