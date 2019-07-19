@@ -36,8 +36,9 @@ load <plugin> - loads plugin
 loadpath <path> - loads a directory in the path
 unload <plugin>
 
-workspace - shows the workspaces
+workspace (-h) - shows the workspaces
 workspace -a <name> - creates (and switches to) new workspace
+workspace -d <name> - deletes a workspace
 workspace <name> - switches workspaces
 ```
 ### Search
