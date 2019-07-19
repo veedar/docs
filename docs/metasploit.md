@@ -30,7 +30,7 @@ color <option> - sets console colours
 connect <options> - connects to a host (similar to netcat)
 edit <file> - vim editing
 grep <options> - search for modules
-info <module> - show modules's info
+info <module/path> - show modules's info
 jobs (-h) - shows active jobs
 load <plugin> - loads plugin
 loadpath <path> - loads a directory in the path
