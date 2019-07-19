@@ -31,5 +31,5 @@ connect <options> - connects to a host (similar to netcat)
 edit <file> - vim editing
 grep <options> - search for modules
 info <module> - show modules's info
-jobs - shows active jobs
+jobs (-h) - shows active jobs
 ```
