@@ -106,6 +106,6 @@ run
 ```
 ### Post Exploitation
 
-Add your public ssh key to ~/.ssh/authorized_keys
+Add your public ssh key to ~/.ssh/authorized_keys  
 Enable RSAAuthentication in the SSH config file
 
