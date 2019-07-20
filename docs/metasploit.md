@@ -14,9 +14,10 @@ nav_order: 2
 1. TOC
 {:toc}
 
-### Metasploit
+### Metasploit Directories
 ```
-/usr/share/metasploit-framework/
+/usr/share/metasploit-framework/ - root
+/usr/share/metasploit-framework/data/wordlists/ - wordlists
 ```
 ```
 msfconsole - starts MSF
