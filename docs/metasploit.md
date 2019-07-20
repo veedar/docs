@@ -21,6 +21,7 @@ nav_order: 2
 ```
 ```
 msfconsole - starts MSF
+msfupdate - updates the framework
 ```
 ### Basics
 ```
